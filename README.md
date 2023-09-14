@@ -1,2 +1,3 @@
-# nlw-IA
-NLW - IA
+# upload-AI
+
+Aplicação desenvolvida NLW
